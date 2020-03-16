@@ -4,3 +4,4 @@
 3. enter value in box
 4. click 'run' at the same line
 5. convert value shown below
+--You can use main.exe directly !!!--
